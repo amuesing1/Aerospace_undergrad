@@ -1,0 +1,2 @@
+  Work process 1(kJ)   Work process 2(kJ)   Work process 3(kJ)   Work process 4(kJ)     Net work done by cycle(kJ)
+      37.488117           251.975220           -14.998025          -251.976638                 22.488674 

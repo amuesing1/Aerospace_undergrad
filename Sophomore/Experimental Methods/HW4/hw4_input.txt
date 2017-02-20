@@ -1,0 +1,9 @@
+# Input file for ASEN 2012 HW4
+# type of polytropic relationship for each process starting with process 1-2 and
+# continuing in this order until we return to state 1
+# value of n, p (Pa), v (m^3), ensure that units are consistent
+#{use n=i if constant volume process}
+1 700000 0.24
+1.4 560000 0.3
+1 22680 2.9634
+1.4 28350 2.3707

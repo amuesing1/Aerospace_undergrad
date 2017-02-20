@@ -1,0 +1,18 @@
+confirmed uncertanties match
+confirmed uncertanties match
+confirmed uncertanties match
+confirmed uncertanties match
+confirmed uncertanties match
+confirmed uncertanties match
+tau = 45.459755
+uncertainty = 0.001431
+
+t  10.000000  40.000000 70.000000 100.000000 130.000000 160.000000
+y 188.000000 102.000000  60.000000  18.000000  16.000000   5.000000
+z   5.236442   4.624973   4.094345   2.890372   2.772589   1.609438
+
+sum of w*t^2 = 1054400.000000
+sum of w*z = 1806.294290
+sum of w*t = 14840.000000
+sum of w*tt*z = 58167.851166
+sum of w = 389.000000

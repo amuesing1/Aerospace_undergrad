@@ -1,0 +1,21 @@
+
+ PRINT F    SUMMED NODAL LOADS
+ 
+  ***** POST1 SUMMED TOTAL NODAL LOADS LISTING *****                           
+ 
+  LOAD STEP=     1  SUBSTEP=     1                                             
+   TIME=    1.0000      LOAD CASE=   0                                         
+ 
+  THE FOLLOWING X,Y,Z SOLUTIONS ARE IN THE GLOBAL COORDINATE SYSTEM            
+ 
+    NODE      FX          FY          FZ    
+       1  0.22570E-05-0.11112E-03-0.21758E-05
+      17             -0.11128E-03-0.20094E-05
+      26              0.22240E-03
+      43              0.22240E-03
+      52 -0.22570E-05-0.11128E-03 0.23169E-05
+      68             -0.11112E-03 0.18684E-05
+
+ TOTAL VALUES
+ VALUE   0.26098E-16 0.43856E-16 0.10566E-16
+

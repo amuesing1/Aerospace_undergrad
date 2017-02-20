@@ -1,0 +1,5 @@
+Solving for t W in terms of D is:
+ W=(10*F*H^3*rho)/((pi*D)^2*E)
+Diameter of column = 0.241901 meters
+Thickness of the wall = 0.036911 meters
+Minimum Cost for Column = $435.425485

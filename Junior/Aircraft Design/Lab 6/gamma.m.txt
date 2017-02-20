@@ -1,0 +1,10 @@
+gamma = ap.Ix*ap.Iz - ap.Ixz^2;
+gamma_1 = (ap.Ixz*(ap.Ix-ap.Iy+ap.Iz))/gamma;
+gamma_2 = (ap.Iz*(ap.Iz-ap.Iy)+ap.Ixz^2)/gamma;
+gamma_3 = ap.Iz/gamma;
+gamma_4 = ap.Ixz/gamma;
+gamma_5 = (ap.Iz-ap.Ix)/ap.Iy;
+gamma_6 = ap.Ixz/ap.Iy;
+gamma_7 = (ap.Ix*(ap.Ix-ap.Iy)+ap.Ixz^2)/gamma;
+gamma_8 = ap.Ix/gamma;
+

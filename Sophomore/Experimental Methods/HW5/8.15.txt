@@ -1,0 +1,2 @@
+wavelength = 18.057143
+uncertainty of B = 0.048655

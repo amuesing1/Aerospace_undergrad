@@ -1,0 +1,3 @@
+uncertainty of A = 0.114090
+uncertainty of B = 0.137721
+uncertainty of C = 0.331787

@@ -1,0 +1,8 @@
+Numerical time for safe to touch = 916.40 seconds
+And
+Analytical time for safe to touch = 916.00 seconds
+Error In Times:
+At 40 seconds: 0.178069 %
+At 400 seconds: 0.032630 %
+At 2000 seconds: 0.004310 %
+At 4000 seconds: 0.028569 %

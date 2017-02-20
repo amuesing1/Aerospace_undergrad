@@ -1,0 +1,2 @@
+uncertainty of A = 0.309047
+uncertainty of B = 0.206032

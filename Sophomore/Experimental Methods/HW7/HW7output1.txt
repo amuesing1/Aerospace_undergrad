@@ -1,0 +1,5 @@
+# of barrels of Crude 1 = 0
+# of barrels of Crude 2 = 30000
+# of barrels of Crude 3 = 30000
+# of barrels of Crude 4 = 22414
+Maximum Profit = $352710

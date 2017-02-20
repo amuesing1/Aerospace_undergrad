@@ -1,0 +1,2 @@
+uncertainty with line = 0.515079
+uncertainty with quadratic = 0.697688

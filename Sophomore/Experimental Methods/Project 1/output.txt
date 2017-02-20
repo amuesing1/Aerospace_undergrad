@@ -1,0 +1,4 @@
+Specific heat of sample is 0.344846 +- 0.003261 kJ/kg*K
+Or
+Specific heat of sample is 0.082365 +- 0.000779 cal/g*C
+Which is a 0.945672 percent error

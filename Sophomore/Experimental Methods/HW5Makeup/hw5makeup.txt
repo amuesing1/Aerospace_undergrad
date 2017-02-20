@@ -1,0 +1,6 @@
+A. B0=158.765553 & B1=448.397289
+B. uncertainty in B0=4.421749
+   uncertainty in B1=24.547367
+D. uncertainty in CrossX=6.868874
+   Minimum value of CrossX at Inverse Energy=0.4 is 331.255594
+   Maximum value of CrossX at Inverse Energy=0.4 is 344.993342
