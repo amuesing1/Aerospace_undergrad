@@ -1,0 +1,32 @@
+dx: 0.000000 dy: 49.000000
+Time to run program: 224.663126 seconds
+dx: 0.000000 dy: 49.000000
+Time to run program: 217.593347 seconds
+dx: 0.000000 dy: 49.000000
+Time to run program: 217.280287 seconds
+dx: 0.000000 dy: 49.000000
+Time to run program: 221.091772 seconds
+dx: 0.000000 dy: 49.000000
+Time to run program: 223.592041 seconds
+dx: 0.000000 dy: 49.000000
+Time to run program: 222.632838 seconds
+dx: 0.000000 dy: 50.000000
+Time to run program: 225.949415 seconds
+dx: 0.000000 dy: 51.500000
+Time to run program: 227.326747 seconds
+dx: -86.500000 dy: 49.500000
+Time to run program: 584.508301 seconds
+dx: -86.500000 dy: 49.500000
+Time to run program: 580.220699 seconds
+dx: -86.500000 dy: 49.500000
+Time to run program: 553.763957 seconds
+dx: -86.500000 dy: 49.500000
+Time to run program: 548.311476 seconds
+dx: -83.000000 dy: 49.500000
+Time to run program: 546.055832 seconds
+dx: -69.000000 dy: 49.500000
+Time to run program: 554.022279 seconds
+dx: -70.500000 dy: 50.500000
+Time to run program: 546.484328 seconds
+dx: -85.000000 dy: 52.000000
+Time to run program: 534.784908 seconds

@@ -1,0 +1,8 @@
+Assignment1, Started strong;95
+Assignment2;95
+Assignment3, Slip up;65
+Assignment4, Much better;95
+Assignment5, Maintaining;90
+Assignment6;85
+Assignment7;95
+Assignment8, Nice work;90

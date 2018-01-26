@@ -1,0 +1,10 @@
+#How to Run
+./problem2.sh $any_file_or_directory
+
+
+#Example Input and Output
+Input: ./problem2.sh /usr/bin/gdb
+
+Output:
+/usr/bin/gdb is a file with permissions:
+Read and Execute

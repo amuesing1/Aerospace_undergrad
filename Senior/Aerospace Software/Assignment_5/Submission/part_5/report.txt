@@ -1,0 +1,9 @@
+#How to Run
+./problem5.sh $name_of_zip_file
+
+
+#Input and Output
+Input: ./problem5.sh MIDG.tar.gz 
+
+Output:
+cleaned zip file is in submission

@@ -1,0 +1,4 @@
+Timing Results
+Slow code: 381.329ms
+Fast code: 184.514ms
+Parallel code (8 cores): 392.712ms

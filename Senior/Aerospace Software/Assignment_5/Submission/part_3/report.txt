@@ -1,0 +1,9 @@
+#How to Run
+./problem3.sh $name_of_file $file_extension
+
+
+#Input and Output
+Input: ./problem3.sh Picture png
+
+Output:
+files contained in submission

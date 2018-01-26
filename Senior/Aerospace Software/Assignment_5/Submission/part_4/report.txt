@@ -1,0 +1,10 @@
+#How to Run
+./problem4.sh $name_of_file
+
+
+#Input and Output
+Input1: ./problem4.sh Athena.txt
+Input2: ./problem4.sh Bartholomeu.txt
+
+Output1: 88.7
+Output2: 88.7

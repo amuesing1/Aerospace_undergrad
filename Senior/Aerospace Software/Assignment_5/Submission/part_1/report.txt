@@ -1,0 +1,24 @@
+#How to Run
+./problem1.sh
+
+Enter in the first and second numbers as prompted
+
+#Inputs and Outputs
+Input:
+3
+15
+Output:
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+

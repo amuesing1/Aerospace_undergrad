@@ -1,0 +1,8 @@
+Assignment1, Needs improvement;75
+Assignment2, Improvement;85
+Assignment3, More improvement;95
+Assignment4, Excellent work;100
+Assignment5;95
+Assignment6;85
+Assignment7;80
+Assignment8, Finished strong;95

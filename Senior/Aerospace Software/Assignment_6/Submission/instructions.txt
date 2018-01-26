@@ -1,0 +1,3 @@
+To run the code: ./ThreeBody $objective_number$ $clearance_in_meters$ $accuracy_of_answer_desired$
+
+To compile the code: gcc -o $whatever_name_you_want$ assign_6.c -lm
